@@ -13,19 +13,21 @@ There are mini-labs near the end of the presentation pdf.
 
 ## Sample trace files
 
-There are sample trace files available. References to which files to use are detailed in the mini-labs.
+There is a sample trace file available.
 
 ------
 
 ### Additional info:
 
-https://wiki.wireshark.org/SampleCaptures
+A source for pcap files and malware samples https://www.malware-traffic-analysis.net/index.html
 
-https://www.netresec.com/?page=PcapFiles
+A source for pcap files https://wiki.wireshark.org/SampleCaptures
 
-https://github.com/chrissanders/packets
+A source for pcap files https://www.netresec.com/?page=PcapFiles
 
-https://www.cellstream.com/resources/wireshark-profiles-repository
+A source for pcap files https://github.com/chrissanders/packets
+
+A source for configuration profile files https://www.cellstream.com/resources/wireshark-profiles-repository
 
 ------
 
@@ -33,4 +35,4 @@ https://www.cellstream.com/resources/wireshark-profiles-repository
 
 ------
 
-rev 04282019-2345
+rev 05012019-2150
